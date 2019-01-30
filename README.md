@@ -1,5 +1,5 @@
 # Online-Portfolio
-An Online Portfolio
+An Online Portfolio by Jake Ward
 
 -------------------------
 
