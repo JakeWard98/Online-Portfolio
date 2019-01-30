@@ -1,5 +1,5 @@
 # Online-Portfolio
-A Portfolio
+An Online Portfolio
 
 -------------------------
 
