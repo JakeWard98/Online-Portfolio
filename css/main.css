@@ -23,6 +23,11 @@ html, body
     overflow-x: hidden;
 }
 
+nav
+{
+	font-family: 'Roboto', sans-serif;
+}
+
 /***Classes***/
 
 .access
