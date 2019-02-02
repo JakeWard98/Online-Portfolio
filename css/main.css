@@ -23,4 +23,20 @@ html, body
     overflow-x: hidden;
 }
 
+nav
+{
+	font-family: 'Roboto', sans-serif;
+}
+
 /***Classes***/
+
+.access
+{
+	position: fixed;
+	z-index: 0;
+	top: 0;
+	left: 90%;
+	z-index: 2;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 15px;
+}
