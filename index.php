@@ -39,9 +39,9 @@
                 </ul>
         </nav>
 
-        <footer>
-		
-        </footer>
+    <?php include 'includes/footer.php';
+    //this pulls the php file from the folder.
+    ?>
 	
 	
 </body>
