@@ -100,3 +100,4 @@ temp
 .eslintrc.json
 package-lock.json
 .htaccess
+./errors
