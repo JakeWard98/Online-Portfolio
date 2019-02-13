@@ -82,3 +82,27 @@ footer
 	font-family: 'Roboto', sans-serif;
 	padding-top: 15px;
 }
+
+.areaOne
+{
+	/*position: fixed;*/
+	height: 100vh;
+	width: 100%;
+	background-color: red;
+}
+
+.areaTwo
+{
+	/*position: fixed;*/
+	height: 100vh;
+	width: 100%;
+	background-color: purple;
+}
+
+.areaThree
+{
+	/*position: fixed;*/
+	height: 100vh;
+	width: 100%;
+	background-color: green;
+}
