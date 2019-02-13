@@ -39,6 +39,22 @@
                 </ul>
         </nav>
 
+        <div class="areaOne">
+        
+        
+        
+        </div>
+
+        <div class="areaTwo">
+        
+        
+        </div>
+
+        <div class="areaThree">
+        
+        
+        </div>
+
     <?php include 'includes/footer.php';
     //this pulls the php file from the folder.
     ?>
