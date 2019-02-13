@@ -85,7 +85,6 @@ footer
 
 .areaOne
 {
-	/*position: fixed;*/
 	height: 100vh;
 	width: 100%;
 	background-color: red;
@@ -93,7 +92,6 @@ footer
 
 .areaTwo
 {
-	/*position: fixed;*/
 	height: 100vh;
 	width: 100%;
 	background-color: purple;
@@ -101,7 +99,6 @@ footer
 
 .areaThree
 {
-	/*position: fixed;*/
 	height: 100vh;
 	width: 100%;
 	background-color: green;
