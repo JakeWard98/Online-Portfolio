@@ -1,21 +1,13 @@
 <footer>
 	<div class="name">
-			By Jake Ward &copy;
-                </div>
-                
-                <div id=browser>
-                <?php
-                    $browser = $_SERVER['HTTP_USER_AGENT'];
-                    $ip = $_SERVER['REMOTE_ADDR'];
-                    echo 'You are currently Using: '.$browser;
-                    echo '<br><br>Your IP is '.$ip;
-                ?>
-                <br>
-                <br>
-                Your Screen Res = 
-                <script>
-                    document.write(screen.width+'x'+screen.height);
-                </script>
+		By Jake Ward &copy;
+	</div>
+			
+		<div id=browser>
+			Your Screen Res = 
+			<script>
+				document.write(screen.width+'x'+screen.height);
+			</script>
 		</div>
     </footer>
 	<!--Where all the JS file locations are located for calling to run-->

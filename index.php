@@ -7,7 +7,7 @@
 <meta name="description" content="An Online Portfolio by Jake Ward">
 <meta name="keywords" content="Portfolio, Online">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-<title>My Online Portfolio</title>
+<title>Jake Ward</title>
 <!--MAIN CSS-->
 <link rel="stylesheet" type="text/css" href="css/main.css">
 <!--FONT-->
@@ -27,30 +27,47 @@
 	</div>
 		
 		MY PORTFOLIO
-		
-        </header>
+	<!-- <header>	
+        Jake Ward
+        Computer Science with Software Develop @ Liverpool Uni
+    </header> -->
 		<!--Nav-->
         <nav>
         		<ul>	
-                    <li>Top</li>
-                    <li>About Me</li>
-                    <li>Links</li>
-                    <li>Contact Me</li>
+                    <li><a href = "#top" class = "nav-link">Top</a></li> |
+                    <li><a href = "#about" class = "nav-link">About Me</a></li> |
+                    <li><a href = "#links" class = "nav-link">Links</a></li> | 
+                    <li><a href = "#contact" class = "nav-link">Contact Me</a></li>
                 </ul>
         </nav>
 
-        <div class="areaOne">
+        <div class="areaOne" id = "top">
         
+            <!-- particles.js container --> 
+            <div id="particles-js"></div>
+            <!-- scripts -->
+            <script src="js/particles.js"></script>
+            <script src="js/app.js"></script>
+
+            <div class="centre">
+
+                <h1>Jake Ward</h1>
+                <h2>Placeholder Text</h2>
+        
+        </div>
+
+        <div class="areaTwo" id = "about">
+   
+        Profile
+        
+        </div>
+
+        <div class="areaThree" id = "links">
         
         
         </div>
 
-        <div class="areaTwo">
-        
-        
-        </div>
-
-        <div class="areaThree">
+        <div class="areaFour" id = "contact">
         
         
         </div>
